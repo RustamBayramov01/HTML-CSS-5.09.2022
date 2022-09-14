@@ -1,0 +1,355 @@
+.bg-main-border{
+    background: white;
+    padding: 30;
+    margin: -10;
+    border-color: black;
+    border-bottom-style: solid;
+}
+
+
+.bg-main-border-2{
+    background: white;
+    padding: 30;
+    margin-top: 10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    border-color: black;
+    border-bottom-style: solid;
+}
+
+
+.bg-main-vertical-border{
+    transform: rotate(-90deg);
+    border-color: black;
+    border-bottom-style: solid;
+    width: 100px;
+    margin-left: 10px;
+}
+
+
+.bg-main-vertical-border-2{
+    transform: rotate(-90deg);
+    border-color: black;
+    border-bottom-style: solid;
+    width: 100px;
+    margin-left: -20px;
+}
+
+
+.bg-main-submit-border{
+    position: fixed;
+    top: 0;
+    left: 90%;
+    right: 0;
+    height: 99px; 
+    background: #40E0D0;
+   
+}
+
+.bg-main-register-login-border{
+    position: fixed;
+    top: 0;
+    left: 78%;
+    right: 10%;
+    height: 98px; 
+   
+}
+
+
+.logo-text{
+    position: fixed;
+    top: 0;
+    left: 0%;
+    right: 0;
+    height: 98px; 
+    background: transparent;
+}
+
+.logo-txt{
+    font-size: 50px;
+    margin-top: 15px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.div-submit{
+    margin-top: 20%;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+
+.div-register-login-text{
+    margin-top: 17%;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+
+
+.img-container{
+    float: left;
+}
+
+.img-container-2{
+    float: left;
+}
+
+.img-container-search{
+    float: left;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+
+.ul{
+    list-style-type: none;
+}
+
+
+
+
+
+
+.menu-text{
+    color: black;
+    
+    display: flex;
+    font-size: 20;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 6px;
+}
+
+
+.menu-text-FilterBy{
+    color: black;
+    display: flex;
+    font-weight: bold;
+    font-size: 15;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: -20px;
+    padding-top: 6px;
+}
+
+
+.menu-text-All{
+    color: black;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: -10px;
+    padding-top: 6px;
+}
+
+
+
+
+
+.Header{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+
+.Discobrain{
+    
+    width: 440px;
+}
+
+.bold{
+    margin-left: 20px;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+
+.bold-2{
+    margin-left: 20px;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.Td{
+    border-radius: 8px;
+    border-width: thin;
+    background: #f8f8ff;
+}
+
+
+.Td-GodFather{
+    border-radius: 8px;
+    border-width: thin;
+    background: #f8f8ff;
+}
+
+
+.bg-main-border-3{
+    background:#f8f8ff;
+    padding: 10;
+    margin: 0;
+    border-width: 1px;
+    border-color: black;
+    border-bottom-style: solid;
+}
+
+
+.img-result{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+
+.img-result-2{
+    margin-top: 120px;
+    margin-left: -380px;
+}
+
+
+.img-result-3{
+    margin-top: 120px;
+    margin-left: -400px;
+}
+
+.HMM{
+    font-size: 10px;
+    color: white;
+    margin-left: -150px;
+    margin-right: 150px;
+    margin-top: 120;
+    border-radius: 10px;
+    background: #79cdcd;
+    padding: 10px;
+}
+
+.DEV{
+    font-size: 10px;
+    color: white;
+    margin-left: -150px;
+    margin-right: 150px;
+    margin-top: 120;
+    border-radius: 10px;
+    background: #6959cd;
+    padding: 10px;
+}
+
+.SOTD{
+    font-size: 10px;
+    color: white;
+    margin-left: -150px;
+    margin-right: 150px;
+    margin-top: 120;
+    border-radius: 10px;
+    background: red;
+    padding: 10px;
+}
+
+.Bonjour-Paris{
+    margin-top: -515px;
+    margin-left: 580px;
+}
+
+.Bonjour-Paris-image{
+    width: 465px;
+}
+
+
+.The-Good-Father{
+    margin-top: -515px;
+    margin-left: 1190px;
+}
+
+
+
+
+
+.The-Good-Father-image{
+    width: 465px;
+    height: 330px;
+}
+
+
+.example {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+
+
+
+
+.text-link{
+    color: black;    
+    text-decoration: none;
+}
+
+
+.text-link-2{
+    color: white;    
+    text-decoration: none;
+}
+
+
+
+.bg-main-border-bottom{
+    background: black;
+    padding: 100px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: 30px;
+    border-color: black;
+    border-bottom-style: solid;
+}
+
+
+.text-link-2{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+.text-link-3{
+    color: white;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+
+.text-link-4{
+    color:  white;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+
+
+.div{
+    margin-top: -75px;
+}
+
+.div-2{
+    margin-top: -50px;
+    
+}
+
+.div-3{
+    margin-top: -25px;
+}
+
+.div-4{
+    margin-top: -85px;
+    margin-left: 1470px;
+}
